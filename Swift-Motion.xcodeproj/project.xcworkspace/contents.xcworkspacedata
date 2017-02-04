@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Swift-Motion.xcodeproj">
+      location = "self:/Users/a14344/dev/Swift-Motion/Swift-Motion.xcodeproj">
    </FileRef>
 </Workspace>
